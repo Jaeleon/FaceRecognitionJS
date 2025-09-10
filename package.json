@@ -1,0 +1,28 @@
+{
+  "name": "face-recognition",
+  "version": "1.0.0",
+  "description": "face recognition system with ai",
+  "main": "face-api.min.js",
+  "scripts": {
+    "test": "test",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaeleon/FaceRecognitionJS.git"
+  },
+  "keywords": [
+    "ai",
+    "face",
+    "recognition"
+  ],
+  "author": "jaeleon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaeleon/FaceRecognitionJS/issues"
+  },
+  "homepage": "https://github.com/Jaeleon/FaceRecognitionJS#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
